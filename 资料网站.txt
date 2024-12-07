@@ -1,0 +1,9 @@
+https://help.aliyun.com/zh/sls/alert-noise-reduction-management-based-on-intelligent-merging
+
+https://www.cnblogs.com/huaweiyun/p/16320686.html
+
+https://www.secrss.com/articles/15929
+
+https://www.secrss.com/articles/15930
+
+https://xlab.tencent.com/cn/2024/01/26/edr-alert-analysis-robot/
